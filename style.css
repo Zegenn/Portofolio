@@ -162,7 +162,7 @@ span {
 
 .about-content h2 {
     text-align: left;
-    line-height: 1.2;
+    line-height: 2;
     margin-left: 200px;
     margin-right: 200px;
 }
@@ -172,7 +172,6 @@ span {
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 15px;
-    line-height: 2;
 }
 
 .about-content p {
